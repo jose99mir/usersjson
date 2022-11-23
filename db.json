@@ -3,12 +3,5 @@
     { "paterno": "López", "materno": "Mata","nombre":"Lina Maria","fecha_nacimiento": "2000-10-1" },
     { "paterno": "Perez", "materno": "Valencia","nombre":"Felipe","fecha_nacimiento": "1998-10-1" },
     { "paterno": "Muñoz", "materno": "Alegria","nombre":"Pilar","fecha_nacimiento": "2012-10-1" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
