@@ -2,6 +2,7 @@
   "users": [
     { "paterno": "López", "materno": "Mata","nombre":"Lina Maria","fecha_nacimiento": "2000-10-1" },
     { "paterno": "Perez", "materno": "Valencia","nombre":"Felipe","fecha_nacimiento": "1998-10-1" },
-    { "paterno": "Muñoz", "materno": "Alegria","nombre":"Pilar","fecha_nacimiento": "2012-10-1" }
+    { "paterno": "Muñoz", "materno": "Alegria","nombre":"Pilar","fecha_nacimiento": "2012-10-1" },
+    { "paterno": "Paz", "materno": "Rivera","nombre":"Juan","fecha_nacimiento": "2015-10-1" }
   ]
 }
